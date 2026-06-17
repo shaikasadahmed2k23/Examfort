@@ -1,0 +1,44 @@
+# ===== Environment variables (NEVER commit secrets) =====
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+
+# ===== Python (backend) =====
+backend/venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+build/
+dist/
+*.sqlite3
+.pytest_cache/
+.mypy_cache/
+
+# ===== Node / Vite (frontend) =====
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist-ssr/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===== Editor / OS junk =====
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# ===== Misc =====
+*.log
+.cache/
