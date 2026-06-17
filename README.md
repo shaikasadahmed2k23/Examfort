@@ -24,66 +24,65 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Screenshots/AdminLogin.png" alt="Admin Login" width="100%"/>
+      <img src="screenshots/AdminLogin.png" alt="Admin Login" width="100%"/>
       <br/><b>Admin Login</b>
       <br/><sub>Secure admin authentication landing page</sub>
     </td>
     <td align="center" width="50%">
-      <img src="Screenshots/AdminGeneratedSeating.png" alt="Generated Seating" width="100%"/>
+      <img src="screenshots/AdminGeneratedSeating.png" alt="Generated Seating" width="100%"/>
       <br/><b>Generated Seating</b>
       <br/><sub>Automated smart seating assignment</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="Screenshots/AdminMockBoard.png" alt="Mock Board" width="100%"/>
+      <img src="screenshots/AdminMockBoard.png" alt="Mock Board" width="100%"/>
       <br/><b>Mock Board</b>
       <br/><sub>Create and manage mock exams</sub>
     </td>
     <td align="center" width="50%">
-      <img src="Screenshots/AdminPaperLeak.png" alt="Paper Leak" width="100%"/>
+      <img src="screenshots/AdminPaperLeak.png" alt="Paper Leak" width="100%"/>
       <br/><b>Paper Leak Tracker</b>
       <br/><sub>Monitor suspicious paper leak events</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="Screenshots/AdminPaperVault.png" alt="Paper Vault" width="100%"/>
+      <img src="screenshots/AdminPaperVault.png" alt="Paper Vault" width="100%"/>
       <br/><b>Paper Vault</b>
       <br/><sub>Secure exam content storage</sub>
     </td>
     <td align="center" width="50%">
-      <img src="Screenshots/AdminSmartSeat.png" alt="Smart Seat" width="100%"/>
+      <img src="screenshots/AdminSmartSeat.png" alt="Smart Seat" width="100%"/>
       <br/><b>Seat Smart</b>
       <br/><sub>Seat allocation and student placement</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="Screenshots/StudentDashboard.png" alt="Student Dashboard" width="100%"/>
+      <img src="screenshots/StudentDashboard.png" alt="Student Dashboard" width="100%"/>
       <br/><b>Student Dashboard</b>
       <br/><sub>Student home with exam status and results</sub>
     </td>
     <td align="center" width="50%">
-      <img src="Screenshots/StudentPageDowlnload.png" alt="Student Download" width="100%"/>
+      <img src="screenshots/StudentPageDowlnload.png" alt="Student Download" width="100%"/>
       <br/><b>Download Page</b>
       <br/><sub>Student access to download exam materials</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="Screenshots/StudentQuiz.png" alt="Student Quiz" width="100%"/>
+      <img src="screenshots/StudentQuiz.png" alt="Student Quiz" width="100%"/>
       <br/><b>Student Quiz</b>
       <br/><sub>Exam interface for taking tests</sub>
     </td>
     <td align="center" width="50%">
-      <img src="Screenshots/StudentResults.png" alt="Student Results" width="100%"/>
+      <img src="screenshots/StudentResults.png" alt="Student Results" width="100%"/>
       <br/><b>Results View</b>
       <br/><sub>Score overview and leaderboard placement</sub>
     </td>
   </tr>
 </table>
-
 ---
 
 ## ✨ Core Features
